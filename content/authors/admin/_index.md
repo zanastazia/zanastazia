@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include natural language processing, sentiment analysis and deep learning.
 
 interests:
 - Natural Language Processing
@@ -52,7 +52,7 @@ social:
   icon_pack: fab
   link: https://twitter.com/zunicanastazia
 - icon: google-scholar
-  icon_pack: ai
+  icon_pack: google-scholar # ai
   link: https://scholar.google.com/citations?user=UtAOIFkAAAAJ
 # - icon: github
  # icon_pack: fab
