@@ -52,7 +52,7 @@ social:
   icon_pack: fab
   link: https://twitter.com/zunicanastazia
 - icon: google-scholar
-  icon_pack: google-scholar # ai
+  icon_pack: ai
   link: https://scholar.google.com/citations?user=UtAOIFkAAAAJ
 # - icon: github
  # icon_pack: fab
