@@ -13,9 +13,9 @@ subtitle = ""
 date_format = "Jan 2006"
 
 # École Polytechnique Fédérale de Lausanne (EPFL), Switzerland
-Summer Research Intern, Summer 2015
-Audiovisual Communications Laboratory (LCAV)
-Worked on: Indoor Positioning System using Wi-Fi Signals
+# Summer Research Intern, Summer 2015
+# Audiovisual Communications Laboratory (LCAV)
+# Worked on: Indoor Positioning System using Wi-Fi Signals
 
 
 # Experiences.
