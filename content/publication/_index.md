@@ -12,9 +12,14 @@ view: 2
 header:
  publications:
  - title: Sentiment analysis in health and well-being Systematic review
- - date:
- - publication_types: 2
- - url_pdf: https://medinform.jmir.org/2020/1/e16023/
+   date:
+   publication_types: 2
+   url_pdf: https://medinform.jmir.org/2020/1/e16023/
+   
+ - title: Sentiment analysis in health and well-being Systematic review
+   date:
+   publication_types: 2
+   url_pdf: https://medinform.jmir.org/2020/1/e16023/
  # image: 
 ---
 
