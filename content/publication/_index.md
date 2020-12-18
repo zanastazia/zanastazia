@@ -13,3 +13,5 @@ header:
   caption: ""
   image: ""
 ---
+
+Zunic, Anastazia, Padraig Corcoran, and Irena Spasic. "Sentiment Analysis in Health and Well-Being: Systematic Review." JMIR Medical Informatics 8, no. 1 (2020): e16023.
