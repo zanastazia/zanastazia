@@ -12,7 +12,9 @@ view: 2
 header:
  publications:
  - title: test1 test2
+ - date:
  - publication_types: 2
+ - url_pdf:
  # image: 
 ---
 
