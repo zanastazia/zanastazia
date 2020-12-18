@@ -11,7 +11,7 @@ view: 2
 # Optional header image (relative to `static/media/` folder).
 header:
  captions:
- - caption: test1 test2
+ - title: test1 test2
  # image: 
 ---
 
