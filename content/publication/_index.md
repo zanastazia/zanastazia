@@ -11,7 +11,7 @@ view: 2
 # Optional header image (relative to `static/media/` folder).
 header:
  publications:
- - title: Sentiment analysis in health and well-being\: Systematic review
+ - title: Sentiment analysis in health and well-being Systematic review
  - date:
  - publication_types: 2
  - url_pdf:
