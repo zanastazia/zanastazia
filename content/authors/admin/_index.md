@@ -75,4 +75,4 @@ user_groups:
 
 Welcome!
 
-I am a third-year PhD student in the School of Computer Science & Informatics at Cardiff University, supervised by Prof. Irena Spasić and Dr. Padraig Corcoran. My research is mainly focused around sentiment analysis of user-generated content in health and wellbeing.
+I am a third-year PhD student in the School of Computer Science & Informatics at Cardiff University, supervised by Prof. Irena Spasić and Dr. Padraig Corcoran. My research is mainly focused around sentiment analysis of user-generated content in health and well-being.
