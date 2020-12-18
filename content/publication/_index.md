@@ -10,8 +10,9 @@ view: 2
 
 # Optional header image (relative to `static/media/` folder).
 header:
- captions:
+ publications:
  - title: test1 test2
+ - publication_types: 2
  # image: 
 ---
 
