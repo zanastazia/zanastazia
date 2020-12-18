@@ -11,6 +11,7 @@ view: 2
 # Optional header image (relative to `static/media/` folder).
 header:
  captions:
+ - caption: Zunic, Anastazia, Padraig Corcoran, and Irena Spasic. "Sentiment Analysis in Health and Well-Being: Systematic Review." JMIR Medical Informatics 8, no. 1 (2020): e16023.
  # image: 
 ---
 
