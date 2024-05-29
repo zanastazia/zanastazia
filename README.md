@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @zanastazia
-- 👀 I’m interested in natural language processing, sentiment analysis, deep learning
-- 🌱 I’m currently a PhD student at Cardiff University
+- 👀 I’m interested in natural language processing, digital image processing, deep learning
+- 🌳 I’m currently a Research Assistant Professor at the Mathematical Institute of the Serbian Academy of Sciences and Arts
+- 👩‍🎓 Previously I got my PhD in Computer Science at Cardiff University
 - 📫 How to reach me: anastazia95@gmail.com
 
 <!---
